@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "325128971394",
+    "firebase_url": "https://chatapp-84979.firebaseio.com",
+    "project_id": "chatapp-84979",
+    "storage_bucket": "chatapp-84979.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:325128971394:android:36a8809b6823679b",
+        "android_client_info": {
+          "package_name": "com.example.user.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "325128971394-s9b7af2u7jaosnl09aars837g6lj9b8f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.user.chatapp",
+            "certificate_hash": "88ec79f60931bed16b720c4932e5932112ca6cfc"
+          }
+        },
+        {
+          "client_id": "325128971394-6q2t1mpeqgmcu4jvfj5d0tl075bjnmr3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.user.chatapp",
+            "certificate_hash": "193bc55b16cc8fd580102e62f8544c2fdaef7be6"
+          }
+        },
+        {
+          "client_id": "325128971394-codcj2t1dmtve9c168b5av12hflmu05f.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "325128971394-codcj2t1dmtve9c168b5av12hflmu05f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDs5-Eq2Zud7pJEjJSVUHzMBnrXp5cgq-g"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "325128971394-codcj2t1dmtve9c168b5av12hflmu05f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
